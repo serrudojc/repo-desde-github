@@ -1,5 +1,5 @@
 Texto creado en mi pc
-
+agregado
 Segunda modificacion
 
-Tercen mensaje. Mensaje commit desde VIM
+borro el tercer mensaje y escribo otra cosa en su lugar
